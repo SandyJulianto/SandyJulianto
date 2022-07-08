@@ -1,4 +1,10 @@
 ### Hi there 👋
+**My name is Sandy Julianto**
+
+🌱 I’m currently learning Python
+🤔 I’m looking for help with projects for beginner
+🔭 I’m currently working on e-Commerce
+
 
 <!--
 **SandyJulianto/SandyJulianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
