@@ -1,9 +1,9 @@
 ### Hi there 👋
 **My name is Sandy Julianto**
 
-🌱 I’m currently learning Python
+🌱 I’m currently learning Back-end engineering in Coursera
 🤔 I’m looking for help with projects for beginner
-🔭 I’m currently working on e-Commerce
+🔭 I’m currently working as admin in e commerce
 
 
 <!--
